@@ -26,103 +26,136 @@
 
 ## 📸 Screenshots
 
-<!-- 
-  HOW TO ADD SCREENSHOTS:
-  1. Take screenshots of your app
-  2. Put them in the "screenshots" folder
-  3. Replace the placeholder paths below with actual filenames
-  
-  Example: ![Landing Page](./screenshots/landing_page.png)
--->
+### 🏠 Landing Page & Public Pages
 
 <details>
-<summary><b>🏠 Landing Page & Public Pages</b></summary>
+<summary>Click to expand</summary>
 <br>
 
-| Page | Screenshot |
-|------|-----------|
-| **Landing Page** | `📷 Add: ./screenshots/landing_page.png` |
-| **Features Page** | `📷 Add: ./screenshots/features_page.png` |
-| **About Page** | `📷 Add: ./screenshots/about_page.png` |
-| **Contact Page** | `📷 Add: ./screenshots/contact_page.png` |
+#### Home Page
+![Home Page](./screenshots/Home%20Page.png)
+
+#### Features
+![Features](./screenshots/Features.png)
+
+#### About
+![About](./screenshots/About.png)
+
+#### Contact
+![Contact](./screenshots/contact.png)
 
 </details>
 
+---
+
+### 🔐 Authentication
+
 <details>
-<summary><b>🔐 Authentication Flow</b></summary>
+<summary>Click to expand</summary>
 <br>
 
-| Page | Screenshot |
-|------|-----------|
-| **Login** | `📷 Add: ./screenshots/login.png` |
-| **Sign Up** | `📷 Add: ./screenshots/signup.png` |
-| **Email Verification (OTP)** | `📷 Add: ./screenshots/verify_email.png` |
-| **Forgot Password** | `📷 Add: ./screenshots/forgot_password.png` |
-| **Google OAuth Sign-In** | `📷 Add: ./screenshots/google_signin.png` |
+#### Login
+![Login](./screenshots/Login.png)
+
+#### Sign Up
+![Sign Up](./screenshots/Sign%20up.png)
 
 </details>
 
+---
+
+### 👤 Candidate Portal
+
 <details>
-<summary><b>👤 Candidate Portal</b></summary>
+<summary>Click to expand</summary>
 <br>
 
-| Page | Screenshot |
-|------|-----------|
-| **Candidate Dashboard** | `📷 Add: ./screenshots/candidate_dashboard.png` |
-| **Profile Management** | `📷 Add: ./screenshots/candidate_profile.png` |
-| **Resume Upload & Parsing** | `📷 Add: ./screenshots/resume_upload.png` |
-| **Job Browser** | `📷 Add: ./screenshots/job_browser.png` |
-| **Job Detail & Apply** | `📷 Add: ./screenshots/job_detail.png` |
-| **My Applications** | `📷 Add: ./screenshots/my_applications.png` |
-| **AI Interview (Take Test)** | `📷 Add: ./screenshots/candidate_interview.png` |
-| **My Interviews** | `📷 Add: ./screenshots/my_interviews.png` |
-| **Saved Jobs** | `📷 Add: ./screenshots/saved_jobs.png` |
+#### Candidate Dashboard
+![Candidate Dashboard](./screenshots/Candidate%20Dashboard.png)
+
+#### Upload Resume
+![Upload Resume](./screenshots/Upload%20Resume.png)
+
+#### Browse Jobs
+![Browse Jobs](./screenshots/Browse%20Jobs.png)
+
+#### Job Detail & Apply
+![Job Detail and Applied](./screenshots/Job%20Detail%20and%20applied.png)
+
+#### My Interviews
+![My Interviews](./screenshots/My%20Interviews.png)
+
+#### AI Interview — Take Test
+![AI Interview](./screenshots/AI%20Interview.png)
+
+#### AI Interview — Evaluation Results
+![AI Interview Evaluation](./screenshots/AI%20Interview%20Evalution.png)
+
+#### AI Interview — Score & Feedback
+![AI Interview Results](./screenshots/AI%20Interview%20Results.png)
 
 </details>
 
+---
+
+### 🏢 Company / Recruiter Portal
+
 <details>
-<summary><b>🏢 Company / Recruiter Portal</b></summary>
+<summary>Click to expand</summary>
 <br>
 
-| Page | Screenshot |
-|------|-----------|
-| **Company Dashboard** | `📷 Add: ./screenshots/company_dashboard.png` |
-| **Company Profile** | `📷 Add: ./screenshots/company_profile.png` |
-| **Post a Job** | `📷 Add: ./screenshots/post_job.png` |
-| **My Jobs** | `📷 Add: ./screenshots/my_jobs.png` |
-| **Job Applicants** | `📷 Add: ./screenshots/job_applicants.png` |
-| **Applicant Detail View** | `📷 Add: ./screenshots/applicant_detail.png` |
-| **All Applicants (Cross-Job)** | `📷 Add: ./screenshots/all_applicants.png` |
-| **Company Interviews** | `📷 Add: ./screenshots/company_interviews.png` |
-| **Recruiter Analytics** | `📷 Add: ./screenshots/analytics_dashboard.png` |
+#### Company Dashboard
+![Company Dashboard](./screenshots/Company%20dashboard.png)
+
+#### Post a Job
+![Post Job](./screenshots/Post%20Job.png)
+
+#### Submitted Resumes
+![Submitted Resumes](./screenshots/Submitted%20Resumes.png)
+
+#### Job Applicants
+![Job Applicants](./screenshots/Job%20Applicants.png)
+
+#### Recruiter Analytics
+![Recruiter Analytics](./screenshots/Recruiter%20Analysis.png)
 
 </details>
 
-<details>
-<summary><b>🤖 AI-Powered Features</b></summary>
+---
+
+### 🤖 AI-Powered Features
+
+<details open>
+<summary>Click to expand</summary>
 <br>
 
-| Page | Screenshot |
-|------|-----------|
-| **AI Candidate Ranking (Leaderboard)** | `📷 Add: ./screenshots/ai_ranking.png` |
-| **Skill Gap Analysis** | `📷 Add: ./screenshots/skill_gap.png` |
-| **AI Interview Questions** | `📷 Add: ./screenshots/ai_interview_questions.png` |
-| **AI Interview Evaluation** | `📷 Add: ./screenshots/ai_evaluation.png` |
-| **Candidate AI Summary** | `📷 Add: ./screenshots/ai_summary.png` |
+#### AI Resume Ranking (Leaderboard)
+![AI Resume Ranking](./screenshots/AI%20Resume%20Ranking.png)
+
+#### AI Resume Match Analysis
+![AI Resume Match Analysis](./screenshots/AI%20Resume%20Match%20Analysis.png)
+
+#### AI Skill Gap Analysis
+![AI Skill Gap Analysis](./screenshots/AI%20Skill%20Gap%20Analysis.png)
+
+#### AI Interview Questions
+![Interview Questions](./screenshots/Interview%20Questions%20Page.png)
 
 </details>
 
+---
+
+### 🛡️ Admin Panel
+
 <details>
-<summary><b>🛡️ Admin Panel</b></summary>
+<summary>Click to expand</summary>
 <br>
 
-| Page | Screenshot |
-|------|-----------|
-| **Admin Dashboard** | `📷 Add: ./screenshots/admin_dashboard.png` |
-| **Manage Users** | `📷 Add: ./screenshots/admin_users.png` |
-| **Approve/Reject Companies** | `📷 Add: ./screenshots/admin_companies.png` |
-| **Manage Jobs** | `📷 Add: ./screenshots/admin_jobs.png` |
-| **Manage Applications** | `📷 Add: ./screenshots/admin_applications.png` |
+#### Admin Dashboard
+![Admin Dashboard](./screenshots/Admin%20Dashboard.png)
+
+#### Manage Users
+![Manage Users](./screenshots/Manage%20Users.png)
 
 </details>
 
